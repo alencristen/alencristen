@@ -33,6 +33,7 @@ $ cat contact.txt
   |  email      |  hello@alencristen.com             |
   |  telegram   |  @alencristen                      |
   |  whatsapp   |  alencristen                       |
+  |  discord    |  alencristen                       |
   |  reddit     |  u/alencristen                     |
   |  x          |  @alencristen                      |
   |  hackerone  |  @alencristen                      |
