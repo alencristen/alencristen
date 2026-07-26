@@ -41,5 +41,3 @@ $ cat contact.txt
   |  instagram  |  404 not found                     |
   +-------------+------------------------------------+
 ```
-
-<sub>stats refresh automatically via github actions — every 6 hours and on every push.</sub>
